@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    display: grid;
+    place-items: center;
+}
+#mybtn {
+    background: #e218f5;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    box-shadow: 10px 15px 10px rgba(0,0,0,0.2);
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 3rem;
+}
